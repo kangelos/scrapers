@@ -1,0 +1,9 @@
+sudo apt install libswitch-perl
+sudo apt install libdbi-perl
+sudo apt install libclass-dbi-mysql-perl
+sudo apt install libhtml-tableextract-perl
+sudo apt install libwww-mechanize-perl
+sudo cpan install WWW:Mechanize::Firefox
+sudo apt install libmojolicious-perl
+sudo apt install libtry-tiny-perl
+
